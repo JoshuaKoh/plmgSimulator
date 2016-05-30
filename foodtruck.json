@@ -1,0 +1,9 @@
+{
+  "cards": [
+    {
+        "name": "Kidnapping",
+        "text": "-400 money. Choose a player. They can choose to pay you 200 money, or else you play their next turn for them.",
+        "copies": 3
+    }
+  ]
+}

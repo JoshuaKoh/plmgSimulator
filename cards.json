@@ -97,6 +97,11 @@
             "copies": 3
         },
         {
+            "name": "Snooping",
+            "text": "Choose an opponent. Look at their hand. For every Life or Vacation card in their hand, they must pay you 50 money, or gain 1 Evil if they cannot pay. Those cards are discarded.",
+            "copies": 3
+        },
+        {
             "name": "Play an MMO",
             "text": "+3 morale. You can’t move for the next turn.",
             "category": "dormitory",
@@ -122,7 +127,7 @@
         },
         {
             "name": "VIP Invitation",
-            "text": "-100 money, +5 preparation, +0.1 GPA",
+            "text": "-60 money, +3 preparation, +0.1 GPA",
             "category": "work office",
             "copies": 3
         },
@@ -134,7 +139,7 @@
         },
         {
             "name": "Overtime Pay",
-            "text": "+0.1 GPA, +50 money.",
+            "text": "+0.1 GPA, +20 money.",
             "category": "work office",
             "copies": 3
         },
@@ -199,49 +204,6 @@
             "copies": 3
         },
         {
-            "name": "Crime Safety Alert",
-            "text": "A player of your choice loses 2 preparation and 0.1 GPA.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Snooping",
-            "text": "Choose an opponent. Look at their hand. For every Backstreet, Life, or Vacation card in their hand, they must pay you 50 money, or gain 1 Evil if they cannot pay. Those cards are discarded.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Feared by Many",
-            "text": "Gain 30 money and 1 preparation for each Evil you have.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Dumpster Diver",
-            "text": "Look at the last six cards in the discard pile. Pick up to two to exchange with cards from your hand.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Shady Deal",
-            "text": "+3 Evil. Choose One: 70 money, +5 preparation, or +0.1 GPA.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Robbery",
-            "text": "+5 Evil. Choose another player to pay you all but 5 of their Money, and all but 1 of their preparation.",
-            "category": "backstreet",
-            "copies": 3
-        },
-        {
-            "name": "Pay Someone to Take Your Classes",
-            "text": "Lose all your money. +0.5 GPA. Skip your next 3 turns.",
-            "category": "",
-            "copies": 3,
-            "flavor": "\"Who would be that retarted to misspell 'your'?\""
-        },
-        {
             "name": "Summer Classes",
             "text": "The player with the highest Evil (including you) must pay 50 money, 3 preparation, 2 morale, and 0.1 GPA. They are teleported to the Classroom.",
             "category": "vacation",
@@ -261,14 +223,14 @@
         },
         {
             "name": "Roadtrip",
-            "text": "+3 morale. All players with <=5 morale lose 50 money, 3 preparation, and 0.1 GPA.",
+            "text": "+3 morale. All players with <=6 morale lose 50 money, 3 preparation, and 0.1 GPA.",
             "category": "vacation",
             "copies": 3
         },
         {
             "name": "Get a Massage",
             "text": "+3 morale. Save this card to be used to take an extra turn at the time of your choosing.",
-            "category": "",
+            "category": "vacation",
             "copies": 3
         },
         {
@@ -296,12 +258,6 @@
             "copies": 3
         },
         {
-            "name": "Kidnapping",
-            "text": "Must have 4 Evil to play. Choose a player. They can choose to pay you 200 money, or else you play their next turn for them.",
-            "category": "bar",
-            "copies": 3
-        },
-        {
             "name": "Classy Drinker",
             "text": "+40 money, +2 prep, +1 morale.",
             "category": "bar",
@@ -310,6 +266,12 @@
         {
             "name": "Party Hard",
             "text": "-30 money. Gain +1 preparation for each morale you have.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Go Bowling",
+            "text": "+4 morale",
             "category": "bar",
             "copies": 3
         },
@@ -351,7 +313,7 @@
         },
         {
             "name": "Weekend Options",
-            "text": "Choose one: +8 preparation,+3 morale, or +0.1 GPA.",
+            "text": "Choose one: +3 preparation, +2 morale, or +0.1 GPA.",
             "category": "payday",
             "copies": 3
         },
@@ -370,12 +332,6 @@
         {
             "name": "Paycuts",
             "text": "Choose a player. They roll as many D6s as they have Evil, and they lose 5 money for each die value rolled.",
-            "category": "payday",
-            "copies": 3
-        },
-        {
-            "name": "Do Someone's Homework",
-            "text": "+25 money, -1 morale, +3 prep, +2 Evil.",
             "category": "payday",
             "copies": 3
         },
@@ -478,12 +434,6 @@
         {
             "name": "Going on a Date",
             "text": "Lose half your money. Your morale is set to 10.",
-            "category": "social",
-            "copies": 3
-        },
-        {
-            "name": "Go Bowling",
-            "text": "+4 morale",
             "category": "social",
             "copies": 3
         },

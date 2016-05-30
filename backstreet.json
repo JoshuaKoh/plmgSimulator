@@ -1,0 +1,45 @@
+{
+  "cards": [
+    {
+      "name": "Get Mugged",
+      "text": "-20 money, -1 prep",
+      "copies": 3
+    },
+    {
+        "name": "Crime Safety Alert",
+        "text": "A player of your choice loses 2 preparation and 0.1 GPA.",
+        "copies": 3
+    },
+    {
+        "name": "Feared by Many",
+        "text": "Gain 30 money and 1 preparation for each Evil you have.",
+        "copies": 3
+    },
+    {
+        "name": "Dumpster Diver",
+        "text": "Look at the last six cards in the discard pile. Pick up to two to exchange with cards from your hand.",
+        "copies": 3
+    },
+    {
+        "name": "Shady Deal",
+        "text": "+3 Evil. Choose One: 70 money, +5 preparation, or +0.1 GPA.",
+        "copies": 3
+    },
+    {
+        "name": "Robbery",
+        "text": "+5 Evil. Choose another player to pay you all but 5 of their Money, and all but 1 of their preparation. This card can be played on any space in place of an action card on your turn.",
+        "copies": 3
+    },
+    {
+        "name": "Do Someone's Homework",
+        "text": "+2 prep. Choose a player. They get -20 money, +2 Evil.",
+        "copies": 3
+    },
+    {
+        "name": "Pay Someone to Take Your Classes",
+        "text": "Lose all your money. +0.5 GPA. Skip your next 3 turns.",
+        "copies": 3,
+        "flavor": "\"Who would be that retarted to misspell 'your'?\""
+    },
+  ]
+}

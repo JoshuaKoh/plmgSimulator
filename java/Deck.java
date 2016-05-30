@@ -61,6 +61,8 @@ public class Deck {
                 // Test for specific cards which need specific movement vals
                 if (cards.getJSONObject(i).getString("name").equals("Daily Commute")) { // Daily Commute card is always a 1 movement.
                     diceVal = 1;
+                } else if (cards.getJSONObject(i).getString("name").equals("BMOC")) { // BMOC card is always a 5 movement.
+                    diceVal = 5;
                 }
 
                 Card c = new Card(cards.getJSONObject(i).getString("name"),

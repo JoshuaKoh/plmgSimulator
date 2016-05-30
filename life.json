@@ -71,7 +71,7 @@
       "copies": 3
     },
     {
-      "name": "Locked Out:",
+      "name": "Locked Out",
       "text": "Choose One: -10 money or you can’t move next turn.",
       "copies": 3
     },
@@ -128,11 +128,6 @@
     {
       "name": "Security Inspection",
       "text": "If you have any Backstreet cards in hand, those cards are discarded and you are sent to Office Hours.",
-      "copies": 3
-    },
-    {
-      "name": "Get Mugged",
-      "text": "-20 money, -1 prep",
       "copies": 3
     },
     {
