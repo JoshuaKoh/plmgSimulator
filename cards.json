@@ -1,0 +1,497 @@
+{
+    "cards": [
+        {
+            "name": "Aha Moment",
+            "text": "+3 preparation",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Group Project",
+            "text": "+0.2 GPA. Alternatively, if you cannot play a card for action upon arrival on a space or location, you may discard this card as well as one other card from your hand.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Successful Presentation",
+            "text": "-20 money, +4 preparation",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Curve Setter",
+            "text": "-1 Preparation. Pick a player to lose 0.1 GPA AND pick a player to lose 0.2 GPA.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Pick on the Little Guy",
+            "text": "+1 Evil, +1 Preparation. A player of your choice draws a Life Card.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Teacher's Pet",
+            "text": "-1 Evil, +1 preparation. Every player but you gains 1 Evil.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Pop Quiz",
+            "text": "A player of your choice rolls a D6. 1, -0.2 GPA, -1 Morale. 2, -0.2 GPA. 3-4, -0.1 GPA. 5, nothing happens. 6, +0.1 GPA.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "More than Prepared",
+            "text": "For every Homework, Payday, and Classroom card (not including this one) in your hand, gain +2 preparation.",
+            "category": "classroom",
+            "copies": 3
+        },
+        {
+            "name": "Stream Osu!",
+            "text": "Roll D6. 1-2, +0 money. 3-4, +10 money. 5, +20 money. 6, +50 money",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Play Osu!",
+            "text": "+1 preparation. If you have >5 morale, +1 more preparation.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Sick Roommate",
+            "text": "A player of your choice discards all their Classroom, Homework, and Social cards. Gain +10 money for each card discarded.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Overnight Storm",
+            "text": "All players (including you) lose 2 preparation. Gain +5 money for each preparation discarded.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Abandoned Notebook",
+            "text": "+2 preparation, a player of your choice loses 0.1 GPA",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "All Nighter",
+            "text": "+0.1 GPA, -3 morale",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Bedroom Romp",
+            "text": "+5 morale. Next turn, roll a D10. If >=7, then in 9 rounds, you start to pay -20 money for the next 20 rounds. If <7, then nothing happens.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Productive Individual",
+            "text": "For every Work Office, Homework, Social, and Dormitory card (not including this one) in your hand, gain +1 preparation.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Play an MMO",
+            "text": "+3 morale. You can’t move for the next turn.",
+            "category": "dormitory",
+            "copies": 3
+        },
+        {
+            "name": "Interview",
+            "text": "Discard the card from your hand with the most movement value. Get a job.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Cutting Edge Technology",
+            "text": "Another player pays you 20 money and loses 0.1 GPA.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Office Swag",
+            "text": "Draw 4 cards. Swap any cards from your hand with any of the drawn cards.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "VIP Invitation",
+            "text": "-100 money, +5 preparation, +0.1 GPA",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Daily Commute",
+            "text": "You may increase this card’s move value up to 6 by paying 4 money for each additional space moved.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Overtime Pay",
+            "text": "+0.1 GPA, +50 money.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Student Research",
+            "text": "+20 money, +2 prep.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Promoted to Manager",
+            "text": "+1 morale. Each player must reveal to you the next card they draw.",
+            "category": "work office",
+            "copies": 3
+        },
+        {
+            "name": "Advising Meeting",
+            "text": "Cycle cards until you find another one that can also be played on the Student Office. Play it immediately.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Apply for Scholarship",
+            "text": "In three turns, roll a D6. If 1, get nothing. Otherwise, get (15*your roll) money.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "An Honest Snitch",
+            "text": "The player with the highest Evil (including you) must pay 50 money and 1 morale, or go to Office Hours if they cannot pay.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Post-Exam Justice",
+            "text": "The player with the highest Evil must pay you 30 money and is sent to Office Hours. If players are tied for highest Evil, you pick the target.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Class Trading",
+            "text": "Select another player to steal 0.1 GPA from.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Student Advising",
+            "text": "Discard your hand. Draw (2*hand size) cards and choose (hand size) cards to keep. Discard the rest.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Get Tutoring",
+            "text": "Purchase 1 or more preparation for 15 money each, up to 5 preparation.",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Talk to Financial Aid",
+            "text": "+25 money, +1 morale, +1 prep",
+            "category": "student office",
+            "copies": 3
+        },
+        {
+            "name": "Crime Safety Alert",
+            "text": "A player of your choice loses 2 preparation and 0.1 GPA.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Snooping",
+            "text": "Choose an opponent. Look at their hand. For every Backstreet, Life, or Vacation card in their hand, they must pay you 50 money, or gain 1 Evil if they cannot pay. Those cards are discarded.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Feared by Many",
+            "text": "Gain 30 money and 1 preparation for each Evil you have.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Dumpster Diver",
+            "text": "Look at the last six cards in the discard pile. Pick up to two to exchange with cards from your hand.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Shady Deal",
+            "text": "+3 Evil. Choose One: 70 money, +5 preparation, or +0.1 GPA.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Robbery",
+            "text": "+5 Evil. Choose another player to pay you all but 5 of their Money, and all but 1 of their preparation.",
+            "category": "backstreet",
+            "copies": 3
+        },
+        {
+            "name": "Pay Someone to Take Your Classes",
+            "text": "Lose all your money. +0.5 GPA. Skip your next 3 turns.",
+            "category": "",
+            "copies": 3,
+            "flavor": "\"Who would be that retarted to misspell 'your'?\""
+        },
+        {
+            "name": "Summer Classes",
+            "text": "The player with the highest Evil (including you) must pay 50 money, 3 preparation, 2 morale, and 0.1 GPA. They are teleported to the Classroom.",
+            "category": "vacation",
+            "copies": 3
+        },
+        {
+            "name": "Biking: A Fit Solution",
+            "text": "+20 money if you use this card to move. Another player loses 0.4 GPA if played as an action card.",
+            "category": "vacation",
+            "copies": 3
+        },
+        {
+            "name": "Segfault",
+            "text": "Shuffle all players’ stats, re-deal every player’s hand, and randomly place every player somewhere on the game board.",
+            "category": "vacation",
+            "copies": 3
+        },
+        {
+            "name": "Roadtrip",
+            "text": "+3 morale. All players with <=5 morale lose 50 money, 3 preparation, and 0.1 GPA.",
+            "category": "vacation",
+            "copies": 3
+        },
+        {
+            "name": "Get a Massage",
+            "text": "+3 morale. Save this card to be used to take an extra turn at the time of your choosing.",
+            "category": "",
+            "copies": 3
+        },
+        {
+            "name": "Assigned Driver",
+            "text": "You may teleport to any space or location. You may play a card on the spot you land, but you may not move again.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "A Night on the Town",
+            "text": "-10 money, +3 morale.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Buy for the Group",
+            "text": "A player of your choice pays money equal to 20 times their Evil",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Bar Fight",
+            "text": "Pick two players (including yourself). Both players roll a D20. The player with the higher roll gains +1 morale, while the player with the lower roll loses 1 preparation and 0.2 GPA.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Kidnapping",
+            "text": "Must have 4 Evil to play. Choose a player. They can choose to pay you 200 money, or else you play their next turn for them.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Classy Drinker",
+            "text": "+40 money, +2 prep, +1 morale.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Party Hard",
+            "text": "-30 money. Gain +1 preparation for each morale you have.",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Hang with Coworkers",
+            "text": "+2 morale, +1 preparation",
+            "category": "bar",
+            "copies": 3
+        },
+        {
+            "name": "Accident Avoidance",
+            "text": "You do not receive a Life card for landing on this space.",
+            "category": "life",
+            "copies": 3
+        },
+        {
+            "name": "Inevitable Consequence",
+            "text": "The player with the highest Evil (including you) loses 3 preparation.",
+            "category": "life",
+            "copies": 3
+        },
+        {
+            "name": "Academic Karma",
+            "text": "The player with the highest Evil (including you) loses 0.2 GPA.",
+            "category": "life",
+            "copies": 3
+        },
+        {
+            "name": "Better You than Me",
+            "text": "A player of your choice is sent to Office Hours. You do not receive a Life card.",
+            "category": "life",
+            "copies": 3
+        },
+        {
+            "name": "Food Sale",
+            "text": "Discard any number of cards from your hand and gain +5 money for each card discarded.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Weekend Options",
+            "text": "Choose one: +8 preparation,+3 morale, or +0.1 GPA.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "BMOC",
+            "text": "All players pay you +10 money and +1 preparation.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Sales Commission",
+            "text": "Gain +5 money for each Morale you have.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Paycuts",
+            "text": "Choose a player. They roll as many D6s as they have Evil, and they lose 5 money for each die value rolled.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Do Someone's Homework",
+            "text": "+25 money, -1 morale, +3 prep, +2 Evil.",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Find a Dollar",
+            "text": "+1 money",
+            "category": "payday",
+            "copies": 3
+        },
+        {
+            "name": "Carry the Team",
+            "text": "Show your hand to all players. Gain +2 money for each movement value displayed. ",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Lecture Attendance",
+            "text": "This Homework space cannot send you to Office Hours.",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Collaboration",
+            "text": "Look at another player’s cards. Choose up to three cards from their hand to trade with cards from your hand.",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Diligence",
+            "text": "+3 preparation",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Confused Classmate",
+            "text": " A player of your choice loses 2 preparation.",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Study Grind",
+            "text": "If you have 0 preparation, +3 preparation.",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Find the Answer Online",
+            "text": "+1 evil, +2 preparation.",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Reading Quiz",
+            "text": "+2 prep",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Extra Credit Research",
+            "text": "+10 money, -1 morale, +2 prep",
+            "category": "homework",
+            "copies": 3
+        },
+        {
+            "name": "Basement Startup",
+            "text": "+0.1 GPA, teleport to the Work Office or the Dormitory. You may play a card on the spot you land, but you may not move again.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Post-Exam Party",
+            "text": "If you have >5 morale, gain +0.1 GPA, +1 morale.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Viral Prank",
+            "text": "+20 money. You and another player of your choice switch places. Your turn is now over, so the spot you land on does not affect you nor can you play cards on it.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Casino Run",
+            "text": "Roll a D6. 1, +1 Evil, -40 money. 2, -40 money. 3, -20 money. 4, +20 money, 5, +40 money. 6, +60 money.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "A Meaningful Conversation",
+            "text": "+1 morale. Choose an opponent. Look at their hand.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Go on a Date",
+            "text": "+1 morale. Teleport another player to the same space as you, and take 10 money from them.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Going on a Date",
+            "text": "Lose half your money. Your morale is set to 10.",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Go Bowling",
+            "text": "+4 morale",
+            "category": "social",
+            "copies": 3
+        },
+        {
+            "name": "Actually Trying",
+            "text": "+3 preparation. You are released from Office Hours and may take your turn normally.",
+            "category": "office hours",
+            "copies": 3
+        }
+    ]
+}

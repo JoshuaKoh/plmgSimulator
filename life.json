@@ -1,0 +1,149 @@
+{
+  "cards": [
+    {
+      "name": "Slacking Off",
+      "text": "+1 morale. You and another player of your choice lose 0.1 GPA.",
+      "copies": 3
+    },
+    {
+      "name": "Broken Bike",
+      "text": "You may only use movement cards worth 1 or 2 spaces next turn.",
+      "copies": 3
+    },
+    {
+      "name": "Car Wreck",
+      "text": "Flip a coin. If heads, -50 money. If heads, +50 money, -1 preparation. In both cases, skip your next turn.",
+      "copies": 1
+    },
+    {
+      "name": "Overslept!",
+      "text": " Roll a D6. <=3, nothing happens. >3, lose 1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "A Bad Grade",
+      "text": "-1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "Alone for the Weekend",
+      "text": "-1 morale.",
+      "copies": 3
+    },
+    {
+      "name": "Eating Out",
+      "text": "-15 money.",
+      "copies": 3
+    },
+    {
+      "name": "Bomb an Exam",
+      "text": "-0.1 GPA.",
+      "copies": 2
+    },
+    {
+      "name": "Tuition Fees",
+      "text": "All players lose 20 money.",
+      "copies": 3
+    },
+    {
+      "name": "A Terrible Grade",
+      "text": " -2 preparation",
+      "copies": 2
+    },
+    {
+      "name": "Out of Toilet Paper",
+      "text": "You can’t move next turn (but can still play cards).",
+      "copies": 3
+    },
+    {
+      "name": "Unexpected Expense",
+      "text": "-20 money.",
+      "copies": 3
+    },
+    {
+      "name": "Wrong Side of the Bed",
+      "text": "-1 morale",
+      "copies": 3
+    },
+    {
+      "name": "Lost",
+      "text": "Move back 1 space, end your turn.",
+      "copies": 3
+    },
+    {
+      "name": "Locked Out:",
+      "text": "Choose One: -10 money or you can’t move next turn.",
+      "copies": 3
+    },
+    {
+      "name": "Miss the Buss",
+      "text": "Roll a D6. <=3, nothing happens, >3, -1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "Power Outage",
+      "text": "Discard a random card from your hand.",
+      "copies": 3
+    },
+    {
+      "name": "Peer Evaluations",
+      "text": "All other plays roll a D6, take the average value. <=3, nothing happens. >3, -0.1 GPA. ",
+      "copies": 3
+    },
+    {
+      "name": "Internet Drop",
+      "text": " If your preparation is 0, lose 0.1 GPA.",
+      "copies": 3
+    },
+    {
+      "name": "Pop Quiz",
+      "text": "If your morale < 5, lose 1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "Misunderstood",
+      "text": "-10 money for each Evil you have.",
+      "copies": 3
+    },
+    {
+      "name": "Food Poisoning!",
+      "text": "If you have >2 evil, lose 1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "Roommate Fight",
+      "text": "For every Evil you have, lose 1 Morale.",
+      "copies": 3
+    },
+    {
+      "name": "Procrastination",
+      "text": "For every Evil you have, lose 1 preparation.",
+      "copies": 3
+    },
+    {
+      "name": "Sick Day",
+      "text": "For every Evil you have, lose 15 money.",
+      "copies": 3
+    },
+    {
+      "name": "Security Inspection",
+      "text": "If you have any Backstreet cards in hand, those cards are discarded and you are sent to Office Hours.",
+      "copies": 3
+    },
+    {
+      "name": "Get Mugged",
+      "text": "-20 money, -1 prep",
+      "copies": 3
+    },
+    {
+      "name": "Break a Leg",
+      "text": "Your cards have their movement values halved for your next turn.",
+      "copies": 3
+    },
+    {
+      "name": "Blackout Drunk",
+      "text": "Have the player with the least Evil take your next turn.",
+      "copies": 2
+    }
+  ]
+}
